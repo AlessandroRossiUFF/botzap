@@ -1,0 +1,5 @@
+Pizzas
+Petiscos
+Crepes
+Caldos
+Bebidas

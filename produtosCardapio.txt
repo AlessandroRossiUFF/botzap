@@ -1,0 +1,36 @@
+Pizzas
+Pizza_Calabresa
+IMAGENS/marj.png
+P
+39.90
+Descrição: Exemplo de descrição de um produto.
+Pizzas
+Pizza_Frango_Catupiry
+IMAGENS/marj.png
+P
+39.90
+Descrição: Exemplo de descrição de um produto.
+Petiscos
+Magnifico
+IMAGENS/marj.png
+0
+89.90
+Descrição: Exemplo de descrição de um produto.
+Petiscos
+Espetaculo
+IMAGENS/marj.png
+0
+79.90
+Descrição: Exemplo de descrição de um produto.
+Petiscos
+Marjestoso
+IMAGENS/marj.png
+0
+119.90
+Descrição: Exemplo de descrição de um produto.
+Petiscos
+Camarao_Crock
+IMAGENS/marj.png
+0
+69.90
+Descrição: Exemplo de descrição de um produto.
